@@ -1,0 +1,98 @@
+commit 220bdd8b50e9b04b6713b9129ce11bc4292e351e
+Author: Ruben Toj <tojsumpango@gmail.com>
+Date:   Mon Aug 29 11:06:36 2022 -0600
+
+    agregando 2 párrafos al body
+
+commit ba9b8cb862514c4b7f189d85f6d3a7810de7fa86
+Merge: bdb807c 0016302
+Author: Ruben Toj <tojsumpango@gmail.com>
+Date:   Mon Aug 29 11:03:14 2022 -0600
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit bdb807c881265acde0aea101a5f4a230961e1275
+Author: Ruben Toj <tojsumpango@gmail.com>
+Date:   Mon Aug 29 10:50:07 2022 -0600
+
+    Agregando estaciones del año con fechas
+
+commit 001630205fcbcc3c0616817cfb072040ea2af0a2
+Author: Ruben Toj <tojsumpango@gmail.com>
+Date:   Mon Aug 29 10:50:07 2022 -0600
+
+    Creando las estaciones del año
+
+commit 68265f282f5b307c58bb19444fc76d37a7c5250e
+Merge: fcbd2a7 7d04732
+Author: Ruben Toj <tojsumpango@gmail.com>
+Date:   Mon Aug 29 10:18:41 2022 -0600
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 7d0473269a4261a6d8f08d9d8b574af7e4c8b2af
+Author: Ruben Toj <tojsumpango@gmail.com>
+Date:   Mon Aug 29 10:12:34 2022 -0600
+
+    Agregando index.js al index.html
+
+commit fcbd2a73aa3ee0734c534b74ad4e235415db7644
+Author: Ruben Toj <tojsumpango@gmail.com>
+Date:   Mon Aug 29 10:08:38 2022 -0600
+
+    Agregando style.css al index.html
+
+commit 1fd3ad1a92b3354f7dedfa8d1e57338764d42b3b
+Merge: b49f49f f268b11
+Author: Ruben Toj <tojsumpango@gmail.com>
+Date:   Mon Aug 29 09:59:09 2022 -0600
+
+    Merge branch 'js'
+
+commit f268b11c3dd85771ab8a19936797fb6a19c02538
+Author: Ruben Toj <tojsumpango@gmail.com>
+Date:   Mon Aug 29 09:53:59 2022 -0600
+
+    Creando index.js
+
+commit b49f49f31d54fb6c959258548a1db53d59c51393
+Author: Ruben Toj <tojsumpango@gmail.com>
+Date:   Mon Aug 29 09:40:19 2022 -0600
+
+    Creando Style.css
+
+commit 85b827722ba43118a1e8ff96be0fe6c114a6603a
+Author: Ruben Toj <tojsumpango@gmail.com>
+Date:   Mon Aug 29 09:34:33 2022 -0600
+
+    Creando archivo index.html
+
+commit 37282742d15a79b74e534659688eb29e13363927
+Author: Ruben Toj <tojsumpango@gmail.com>
+Date:   Mon Aug 29 09:11:48 2022 -0600
+
+    Ignorando archivos .exe
+
+commit 713e681b14082ef17631752e1ce3698d51086b58
+Author: RubenAle <78066322+RubenAle@users.noreply.github.com>
+Date:   Sun Aug 28 18:55:57 2022 -0600
+
+    Creando licencia del Repositorio
+
+commit a7081a0eff5195eebc9493bf417ba944a06d0366
+Author: Ruben Toj <tojsumpango@gmail.com>
+Date:   Sun Aug 28 18:51:15 2022 -0600
+
+    Agregando más contenido al README
+
+commit d8a8336c3292afab7276c99c4e70f19e29b28b58
+Author: Ruben Toj <tojsumpango@gmail.com>
+Date:   Fri Aug 26 12:23:19 2022 -0600
+
+    Agregando contenido inicial al README.
+
+commit 887f0f0b33e6b29df219cc342a839058dc3415aa
+Author: Ruben Toj <tojsumpango@gmail.com>
+Date:   Fri Aug 26 12:19:18 2022 -0600
+
+    First Commit 🥶
