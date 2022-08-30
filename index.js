@@ -1,2 +1,1 @@
-console.log;
-("Aprendiendo GIT");
+console.log("Aprendiendo GIT");
